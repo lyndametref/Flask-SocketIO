@@ -1,5 +1,8 @@
-Flask-SocketIO
+Flask-SocketIO with ZeroMQ
 ==============
+
+Fork Note: Modified example to use ZeroMQ in a background thread to receive event to follow to the web page. All the rest is the same
+
 
 [![Build Status](https://travis-ci.org/miguelgrinberg/Flask-SocketIO.png?branch=master)](https://travis-ci.org/miguelgrinberg/Flask-SocketIO)
 
